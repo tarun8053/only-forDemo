@@ -1,2 +1,2 @@
 # only-forDemo
-Author-Taru Thakur
+Author-Tarun Thakur
